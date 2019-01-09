@@ -6,3 +6,5 @@ shoes
 stockroom furniture
 -------------------
 crates
+yellow dividers
+green dividers
