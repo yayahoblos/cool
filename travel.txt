@@ -2,3 +2,7 @@ packing list
 ------------
 hats
 shoes
+
+stockroom furniture
+-------------------
+crates
